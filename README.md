@@ -1,5 +1,6 @@
 # Smart Subtitles for English Learning via Movie Watching
 Final Project for Course CS2610 - INTERFACE DESIGN & EVALUATION
+
 Watching English-spoken movies with subtitles is becoming increasingly popular throughout the world. 
 One reason for this trend is the assumption that perceptual learning of the sounds of a foreign language 
 namely English, will improve perception skills in non-English speakers. However, the traditional way of 
