@@ -1,0 +1,6 @@
+blade: شمشیر
+dark: تاریک
+shed: ریختن
+innocent: بیگناه
+kindred: خویشاوند
+quest: طلب-جستجو

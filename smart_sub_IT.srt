@@ -1,0 +1,129 @@
+﻿1
+00:01:47,250 --> 00:01:50,500
+This<div class="tooltip"><mark>blade</mark><span class="tooltiptext">lama</span></div> has a<div class="tooltip"><mark>dark</mark><span class="tooltiptext">scuro</span></div> past.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Questa lama ha un oscuro passato.
+</span></div>...
+
+2
+00:01:51,800 --> 00:01:55,800
+It has<div class="tooltip"><mark>shed</mark><span class="tooltiptext">capannone</span></div> much<div class="tooltip"><mark>innocent</mark><span class="tooltiptext">innocente</span></div> blood.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Ha sparso molto sangue innocente.
+</span></div>...
+
+3
+00:01:58,000 --> 00:02:01,450
+You're a fool for traveling alone,<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Sei sciocca a viaggiare sola,
+</span></div>...so completely unprepared.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">completamente impreparata.
+</span></div>...
+
+4
+00:02:01,750 --> 00:02:04,800
+You're lucky your blood's still flowing .<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Sei fortunato che il tuo sangue scorra ancora.
+</span></div>...
+
+5
+00:02:05,250 --> 00:02:06,300
+Thank you.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Grazie.
+</span></div>...
+
+6
+00:02:07,500 --> 00:02:09,000
+So...<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Quindi...
+</span></div>...
+
+7
+00:02:09,400 --> 00:02:13,800
+What brings you to the land of the gatekeepers ?<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Cosa ti porta nella terra dei guardiani?
+</span></div>...
+
+8
+00:02:15,000 --> 00:02:17,500
+I'm searching for someone.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Sto cercando qualcuno.
+</span></div>...
+
+9
+00:02:18,000 --> 00:02:22,200
+Someone very dear?<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Qualcuno molto caro?
+</span></div>...A<div class="tooltip"><mark>kindred</mark><span class="tooltiptext">parentado</span></div> spirit?<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Un'anima gemella?
+</span></div>...
+
+10
+00:02:23,400 --> 00:02:25,000
+A dragon.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Un drago.
+</span></div>...
+
+11
+00:02:28,850 --> 00:02:31,750
+A dangerous<div class="tooltip"><mark>quest</mark><span class="tooltiptext">cerca</span></div> for a lone hunter.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Una ricerca pericolosa per una cacciatrice solitaria.
+</span></div>...
+
+12
+00:02:32,950 --> 00:02:35,870
+I've been alone for as long as I can remember.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Sono stata sola per quanto possa ricordare.
+</span></div>...
+
+13
+00:03:27,250 --> 00:03:30,500
+We're almost done. Shhh...<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Ci siamo quasi. Shhh...
+</span></div>...
+
+14
+00:03:30,750 --> 00:03:33,500
+Hey, sit still.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Hey, siediti tranquilla.
+</span></div>...
+
+15
+00:03:48,250 --> 00:03:52,250
+Good night, Scales.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Buona notte, Scales.
+</span></div>...
+
+16
+00:04:10,350 --> 00:04:13,850
+Get him, Scales! Come on!<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Prendilo, Scales! Avanti!
+</span></div>...
+
+17
+00:04:25,250 --> 00:04:28,250
+Scales?<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Scales?
+</span></div>...
+
+18
+00:05:04,000 --> 00:05:07,500
+Yeah! Come on!<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Si! Avanti!
+</span></div>...
+
+19
+00:05:38,750 --> 00:05:42,000
+Scales!<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Scales!
+</span></div>...
+
+20
+00:07:25,850 --> 00:07:27,500
+I have failed.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Ho fallito.
+</span></div>...
+
+21
+00:07:32,800 --> 00:07:36,500
+You've only failed to see...<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Hai solo fallito nel vedere...
+</span></div>...
+
+22
+00:07:37,800 --> 00:07:40,500
+These are dragon lands, Sintel.<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Queste sono le terre
+</span></div>...
+<div class="tooltip2"> &#9734;</img><span class="tooltiptext">dei draghi, Sintel.
+</span></div>...23
+00:07:40,850 --> 00:07:44,000
+You are closer than you know.
+<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Sei più vicino di quanto immagini.
+</span></div>...24
+00:09:17,600 --> 00:09:19,500
+Scales!
+<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Scales!
+</span></div>...25
+00:10:21,600 --> 00:10:24,000
+Scales?
+<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Scales?
+</span></div>...26
+00:10:26,200 --> 00:10:29,800
+Scales...
+<div class="tooltip2"> &#9734;</img><span class="tooltiptext">Scales...
+</span></div>...

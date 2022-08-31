@@ -1,0 +1,6 @@
+blade: lama
+dark: scuro
+shed: capannone
+innocent: innocente
+kindred: parentado
+quest: cerca

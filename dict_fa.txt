@@ -1,0 +1,42 @@
+﻿word,meaning
+switch,کلید
+throw,انداختن
+race,نسل-مسابقه
+conception,مفهوم
+plague,طاعون
+innocent,بیگناه
+kindred,خویشاوند
+quest,طلب-جستجو
+slit,شکاف
+justice,عدالت
+orphan,یتیم
+shed,ریختن
+blade,شمشیر
+dark,تاریک
+extinct,منقرض شدن
+pick,تصمیم-انتخاب
+hurry,عجله
+criminal,مجرم
+attack,حمله-وحشی
+evil,شیطان صفت
+pretend,تظاهر کردن
+rampage,دیوانه شدن
+charming,جذاب-دلربا
+eternally,ابدی
+grateful,سپاسگزار
+sarge,گروهبان
+mission,ماموریت
+accomplished,انجام شدن
+sheriff,کلانتر
+infinity,بی نهایت
+bang,انفجار
+rescue,نجات
+steady,محکم
+elated,شادمان
+elation,شوق
+envious,حسود
+phobia,ترس
+quixotic,خيالپرداز
+Pristine,دست نخورده- بکر
+sedulous,سخت کوش
+پایان,پایان

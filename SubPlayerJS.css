@@ -1,0 +1,84 @@
+
+.inner-container-SPJS {
+    display: inline-block;
+    position: relative;
+}
+.video-overlay-SPJS {    
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 75%;
+    padding: 5px 5px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    font-size: 24pt;
+    font-size: 1.7vw;
+    font-family: Helvetica;
+}
+.control-SPJS {
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 85%;
+    padding: 5px 5px;
+    background-color: rgb(0,0,0,0.5);
+    color: red;
+    font-size: 24pt;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: max-content ;
+    background-color: rgb(0,0,0,0.5);
+    color: yellow;
+    text-align: center;
+    border-radius: 2px;
+    padding: 2px 5px 2px 5px;
+    /* Position the tooltip */
+    position: absolute;
+    top : -40px;
+    left : 0px;
+    
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.tooltip2 {
+    position: fixed;
+	vertical-align: middle;
+    display: inline-block;
+	
+}
+
+.tooltip2 .tooltiptext {
+    visibility: hidden;
+	position: fixed;
+    width: max-content ;
+    background-color: #82171700;
+    color: white;
+    text-align: center;
+    border-radius: 2px;
+	top : 5%;
+	left : 45%;
+    /* padding: 2px 5px 2px 5px; */
+    /* Position the tooltip */
+
+
+    
+}
+.tooltip2:hover .tooltiptext {
+    visibility: visible;
+}
